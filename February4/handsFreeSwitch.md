@@ -7,9 +7,12 @@ The inspiration for my hands-free switch came from gravity and potential energy.
 
 Here are a few images of my switch:
 
-<center> The Setup </center>
-
+*The Setup*
 ![](IMG_5332.JPG)
+
+*Switch Mechanism*
 ![](IMG_5337.JPG)
+
+*Ball in Hole*
 ![](IMG_5333.JPG)
 
