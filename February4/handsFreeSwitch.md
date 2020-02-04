@@ -7,6 +7,7 @@ The inspiration for my hands-free switch came from gravity and potential energy.
 
 Here are a few images of my switch:
 
+<p style="text-align: center;"> *The Setup* </p>
 ![](IMG_5332.JPG)
 ![](IMG_5337.JPG)
 ![](IMG_5333.JPG)
