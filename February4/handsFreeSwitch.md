@@ -9,6 +9,7 @@ Here are a few images of my switch:
 <p align="justify">
 *The Setup*
   </p>
+
 ![](IMG_5332.JPG)
 
 *Switch Mechanism*
