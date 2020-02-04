@@ -18,4 +18,4 @@ The inspiration for my hands-free switch came from gravity and potential energy.
 
 # Here's a video, too:
 
-[Video](https://youtu.be/mJJq4gYUQxc) 
+[Link](https://drive.google.com/open?id=1SpkBI5z4eP1R1qi2PJJiYI1qF0Escddd) 
