@@ -6,6 +6,12 @@ This project is composed of a series of color coded buttons that make a buzzer e
 
 ### Circuit Diagram:
 
-
+![]()
 
 ### Images:
+
+![](I1.JPG)
+
+![](I2.JPG)
+
+![](I3.JPG)
