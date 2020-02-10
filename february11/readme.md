@@ -18,4 +18,4 @@ This project is composed of a series of color coded buttons that make a buzzer e
 
 ### Quick Video:
 
-![LINK](https://www.youtube.com/watch?v=FbowLbK-kMs)
+[LINK](https://www.youtube.com/watch?v=FbowLbK-kMs)
