@@ -10,7 +10,7 @@ I made it using two potentiometers for speed and brightness of the LED's, and I 
 
 ### Circuit Diagram:
 
-![](circuit.JPG)
+![](circuit.jpg)
 
 ### Some Images:
 
