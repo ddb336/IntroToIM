@@ -8,6 +8,8 @@ The setup has four buttons, each numbered from 1 to 4, plus a reset button. You 
 
 The only problems I faced were with the button setup, as I forgot to add the 10kOhms potentiometer. This made the signal wacky, but it was a quick fix. One potential extension is to add the ability to change the password for the system.
 
+[Here](https://youtu.be/DtcR_bMZPC4) is a link to the video.
+
 ### Circuit Diagram:
 
 ![](circuit.jpg)
