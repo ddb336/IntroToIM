@@ -2,7 +2,7 @@
 
 ### About:
 
-Video: (Link)[https://www.youtube.com/]
+Video: [Link](https://www.youtube.com/)
 
 
 
