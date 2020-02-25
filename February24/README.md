@@ -16,7 +16,7 @@ Video: [Link](https://www.youtube.com/watch?v=nBwyTpwN0DU)
 
 ### Circuit Diagram:
 
-![](circuit_diagram)
+![](circuit_diagram.png)
 
 ### Some Images:
 
