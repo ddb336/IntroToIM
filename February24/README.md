@@ -20,6 +20,8 @@ Video: [Link](https://www.youtube.com/watch?v=nBwyTpwN0DU)
 
 ### Some Images:
 
+![](Pic3.png)
+
 ![](Pic1.JPG)
 
 ![](Pic2.JPG)
