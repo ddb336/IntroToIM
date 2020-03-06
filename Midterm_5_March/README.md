@@ -44,7 +44,7 @@ These are all very do-able, I just didn't have the time, and I really regret thi
 
 ## Circuit Diagram
 
-
+![](Circuit_diagram.png)
 
 ## Some Images
 
