@@ -1,6 +1,6 @@
 # Midterm Project: _M&Ms Memory Game!_
 
-![]()
+![](1200px-Plain-M&Ms-Pile.png)
 
 ## Original Idea for Project
 
