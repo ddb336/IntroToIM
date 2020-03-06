@@ -24,6 +24,8 @@ Making the M&M housing unit was super simple, but it took a long time to figure 
 
 ## Current Prototype
 
+![](IMG_5677.JPG)
+
 Youtube video [Here](https://youtu.be/CkLPHmC3wF0)
 
 Everything works as intended, but the servo and potentiometer input don't because I didn't have enough time to do testing and calibration with them. 
@@ -46,5 +48,27 @@ These are all very do-able, I just didn't have the time, and I really regret thi
 
 ## Some Images
 
+### M&M Gate:
 
+![](IMG_5670.JPG)
+
+### M&M Output hole:
+
+![](IMG_5671.JPG)
+
+### M&M Housing Unit:
+
+![](IMG_5673.JPG)
+
+### Speaker and Breadboard:
+
+![](IMG_5674.JPG)
+
+### Input/Output Panel (Lid):
+
+![](IMG_5676.JPG)
+
+### Buttons with Potentiometer:
+
+![](IMG_5679.JPG)
 
