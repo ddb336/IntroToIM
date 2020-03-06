@@ -1,5 +1,7 @@
 # Midterm Project: _M&Ms Memory Game!_
 
+![]()
+
 ## Original Idea for Project
 
 My original concept was simple: a tactile memory game that would incorporate multiple LED outputs and inputs, and provide some kind of reward if the user wins the game. I wanted to have a setup of four buttons (different colors) and a potentiometer on a box, and opposite to this four LEDs (of corresponding color) and a servo-controlled potentiometer head. The LED's flash and the potentiomenter turns in a randomized pattern. If the user mimics the pattern correctly, M&Ms come out of a hole in the side of the box. This is enabled with a servo that sweeps a small gate open and then shut. There is also a fast-slow switch and an on-off switch on top of the box.
