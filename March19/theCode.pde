@@ -58,8 +58,8 @@ void draw()
   ellipse(320 + 12.5*((mouseX - 320)/(sqrt(sq(mouseX - 320) + sq(mouseY - 220)))), 220 + 12.5*((mouseY - 220)/(sqrt(sq(mouseX - 320) + sq(mouseY - 220)))), 20, 20);
   ellipse(180 + 12.5*((mouseX - 180)/(sqrt(sq(mouseX - 180) + sq(mouseY - 220)))), 220 + 12.5*((mouseY - 220)/(sqrt(sq(mouseX - 180) + sq(mouseY - 220)))), 20, 20);
 
+  // NOSE
   fill(0);
-
   line(230+20, 240, 200+20, 320);
   line(200+20, 320, 230+20, 320);
 
