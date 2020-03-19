@@ -8,7 +8,7 @@ Using some nice math, the self portrait's eyes follows your mouse around the scr
 
 ### Image
 
-![](IMG_5677.JPG)
+![](img.png)
 
 
 
