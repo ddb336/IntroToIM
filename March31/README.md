@@ -23,7 +23,7 @@ I got a bit carried away so I made four different projects inspired by different
 - Basically draws lines that point towards where the mouse is in a grid
 - Same grid as "shapes"
 
-## Video of Wavy Line Project Here
+## Video of Wavy Line Project [Here](https://youtu.be/-5XCTfByhyE)
 
 ## Some Images
 
