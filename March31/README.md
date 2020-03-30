@@ -27,5 +27,29 @@ I got a bit carried away so I made four different projects inspired by different
 
 ## Some Images
 
+### Blue Flower:
 
+![](f2.png)
+
+![](f1.png)
+
+![](f3.png)
+
+### Wavy Lines:
+
+![](wl1.png)
+
+![](wl2.png)
+
+### Shapes:
+
+![](s1.png)
+
+![](s2.png)
+
+### Lines:
+
+![](l1.png)
+
+![](l2.png)
 
