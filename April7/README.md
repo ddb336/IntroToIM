@@ -14,7 +14,10 @@ Another problem was that I coudn't figure out how to realistically get the balls
 
 ## Video:
 
-Link [here.](https://youtu.be/CkLPHmC3wF0)
+Link [here](https://youtu.be/GZvLz4ygzyg) and [here](https://youtu.be/w98tx4X2Gzg).
 
 ## Images:
 
+![](IMG2.png)
+
+![](IMG3.png)
