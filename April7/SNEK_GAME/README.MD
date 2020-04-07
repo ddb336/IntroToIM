@@ -1,5 +1,5 @@
 # SNEK GAME!!!
-![](HDR.PNG)
+![](HDR.png)
 
 ## Description:
 
@@ -9,8 +9,8 @@ I decided to make a snake game as well, so much harder than I expected. Basicall
 
 ## Photos:
 
-![](IMG1.PNG)
+![](IMG1.png)
 
-![](IMG2.PNG)
+![](IMG2.png)
 
-![](IMG3.PNG)
+![](IMG3.png)
