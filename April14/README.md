@@ -1,7 +1,7 @@
-# Covid-19 Interactive Country Case Map and Cumulative Cases graph
+# Covid-19 Interactive Country Case Map and Cumulative Cases Graph
 
 ## Description:
 
-## Video Here
+## Video [Here](https://youtu.be/jKFioZ_PGDY)
 
 ## Some Images:
