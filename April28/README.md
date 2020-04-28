@@ -12,7 +12,7 @@
 
 BECOMES
 
-![](img1.PNG)
+![](img1.png)
 
 2. Ball
 
@@ -20,4 +20,4 @@ BECOMES
 
 BECOMES
 
-![](img3.PNG)
+![](img3.png)
