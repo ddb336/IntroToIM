@@ -27,4 +27,6 @@ As I mentioned earlier, I got the idea from a Washington Post article. I saw thi
 
 ![](4.png)
 
+![](6.png)
+
 ![](5.png)
