@@ -19,7 +19,9 @@ As I mentioned earlier, I got the idea from a Washington Post article. I saw thi
 
 ## Problems and Solutions:
 
+I had a really tough time trying to get the project to look the same with different window sizes. When you make something online, you have to make it tamper-proof, so that the simulation will still work/look good even if the window is really small. I had to write a script that parsed a string and added a "\n" every time the width of the subctring was past a particular point, to make it paragraph-style. I also had to make everything rendered in terms of window width and window height. However, in the end I eventually decided to change the code so that the project would always be the same size in the window.
 
+I also had trouble swapping from Java in the Processing IDE to p5.js in the OpenProcessing website. I eventually made the transition, but I much prefer Processing to OpenProcessing in that regard. Also, I feel like Processing is much faster and less of a drain on CPU power.
 
 ## Video [Here](https://youtu.be/YQt4y0cIees)
 
