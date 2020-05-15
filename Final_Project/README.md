@@ -1,2 +1,2 @@
 # PandemicSim
-### *Final IM Project using OpenProcessing
+### *Final IM Project using OpenProcessing*
