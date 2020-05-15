@@ -1,3 +1,3 @@
 # IntroToIM
 
-## My Interactive Media Projects Repository
+## My Interactive Media Project Repository
