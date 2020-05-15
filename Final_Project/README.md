@@ -1,1 +1,1 @@
-# Final IM Project: OpenProcessing **PandemicSim**
+# Final IM Project: OpenProcessing __PandemicSim__
