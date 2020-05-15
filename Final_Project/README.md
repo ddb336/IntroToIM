@@ -16,3 +16,13 @@ I added the ability to change the population size and death rate to make the sim
 ## Personal Statement:
 
 As I mentioned earlier, I got the idea from a Washington Post article. I saw this article ages ago, and I got really excited and dreamed of making my own simulation. When we began using object-oriented programming in Processing I realized that it might actually be possible to make a very similar simulation. I got started and spent a weekend making one in processing. It had a bit of a Windows 95 feel to it, my friends told me, so I decided for my final I wanted to make it in OpenProcessing, with a completely different aesthetic.
+
+## Problems and Solutions:
+
+
+
+## Video [Here](https://youtu.be/YQt4y0cIees)
+
+## Some images:
+
+
