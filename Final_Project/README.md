@@ -5,7 +5,7 @@
 
 ## Overview:
 
-My project consists of 100 little balls on a screen, plus a user interface. One of those balls is "infected", the other 99 are "healthy". Each ball moves in a random direction but fixed velocity. An infected ball can recover after a certain number of seconds. When a healthy ball bumps into an infected one, it becomes infected. As can be expected, the "infection" spreads exponentially.
+My [project](https://www.openprocessing.org/sketch/891417) consists of 100 little balls on a screen, plus a user interface. One of those balls is "infected", the other 99 are "healthy". Each ball moves in a random direction but fixed velocity. An infected ball can recover after a certain number of seconds. When a healthy ball bumps into an infected one, it becomes infected. As can be expected, the "infection" spreads exponentially.
 
 What excites me about this project is that the concept is quite simple, but it produces delightful and interesting results out of a system that is too complex to orchestrate yourself sequentially. You could never tell those 100 balls what to do every frame. Instead, you tell them how to behave, and then watch the magic happen. Maybe the "infected ball" won't touch any others, and it'll end right there when it "recovers". Maybe they'll all become infected. Maybe half will. Most of the time, however, you'll see a logistic curve in the cumulative number of infections, mirroring what happens in real life.
 
